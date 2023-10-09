@@ -1,5 +1,9 @@
 # JSP_board_withoutDB
-블로그 링크 : https://blog.naver.com/flowing_1/222816799613
+
+ ### ˚ෆ*₊ 소스 코드 기재 및 단계별 과정 기록 : https://blog.naver.com/flowing_1/222816799613
+
+
+
 ![image](https://github.com/ji1won/JSP_board_withoutDB/assets/141638383/5f856528-9ad6-4596-a116-6d65b3e28c62)
 ![image](https://github.com/ji1won/JSP_board_withoutDB/assets/141638383/7704e347-f28d-441e-bb09-ad39b943fcf0)
 ![image](https://github.com/ji1won/JSP_board_withoutDB/assets/141638383/feb714e4-edfb-4c38-bee4-6fb8695e4854)
